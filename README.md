@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @fucking-god.
+- 🌱 I’m currently learning C#.
+- 📫 How to reach me drip#1482 on discord.
